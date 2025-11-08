@@ -68,7 +68,12 @@ open index.html
 Or simply open `index.html` in your browser.
 
 ---
+🌐 Live Demo
 
+✨ Live Website:
+https://nethrashivani.github.io/Responsive_website-Tailwind/
+
+---
 ### 🌱 Future Improvements
 
 * Add animations using Tailwind + Framer Motion
